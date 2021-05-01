@@ -5,4 +5,4 @@ This is a traffic light classifier project using Python and basic OpenCV2 techni
 In this project, knowledge of computer vision techniques is used to build a classifier for images of traffic lights.
 
 Here are some sample images from the dataset (from left to right: red, green, and yellow traffic lights):
-<img src="images/all_lights.png" width="50%" height="50%">
+<img src="image/all_lights.png" width="50%" height="50%">
