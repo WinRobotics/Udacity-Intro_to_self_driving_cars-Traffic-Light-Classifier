@@ -1,1 +1,5 @@
-# Udacity/Intro_to_self_driving_cars-Traffic-Light-Classifier
+# Traffic Light Classifier Project (Final project for the Introduction to Self-Driving-Cars Engineer Nanodegree)
+
+This is a traffic light classifier project using Python and basic OpenCV2 techniques to recognize traffic lights. And it is also part of the final project of the Udacity's Introduction to Self-Driving Car Engineer Nanodegree.
+
+In this project, knowledge of computer vision techniques is used to build a classifier for images of traffic lights.
