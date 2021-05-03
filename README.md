@@ -10,4 +10,3 @@ Here are some sample images from the dataset (from left to right: red, green, an
 # Project had 2 criterias to pass 
 -More than 90% accuracy
 -Never classify a red as a green light
-I have achieved 91% for my codes
